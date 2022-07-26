@@ -19,7 +19,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
+global.alivemsg = `Nama bot : MFC BOTZ |by MFX|
 My Creator is MFX` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['628981614707'] //Owner number in aive msg
@@ -27,15 +27,15 @@ global.premium = ['628981614707'] //Owner Number info
 global.ownernomer = '628981614707' //Owner Number <<<
 
 global.ownername = 'MFX' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.botname = ' MFC BOTZ' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
+global.button = '☰ SUMBER SC ☰' //Costomize A Button Name In Alive Message
 global.btnurl = '-' //Change Your Button's URL
 
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'Indonesia, Jakarta , Waitan' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = 'MFX' //Author Name
+global.packname = 'Di buat oleh' //Bot Pacage Name
+global.author = 'MFC BOTZ' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -43,25 +43,24 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©MFX.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = '-' //Github Account!
+global.ig = '' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
-    success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
+    success: 'Selesai ✅',
+    admin: 'Hanya admin yang bisa menggunakan command nya',
+    botAdmin: 'Bot belum jadi admin !!',
+    owner: 'Hanya owner yang bisa menggunakan command nya',
+    group: 'Command hanya untuk grub',
+    private: 'Command hanya bisa di gunakan di private chat !!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-}
+    wait: 'Sabar...',
+    error: 'ERROR 404 : Yah fitur error bro',
+    endLimit: 'Limit mu dah habis bro tunggu besok buat di reset limit nya'}
 // DO NOT CHANGE \\
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 25,
     monayawal: 1000
 }
    global.rpg = {
