@@ -29,18 +29,18 @@ global.ownernomer = '628981614707' //Owner Number <<<
 global.ownername = 'MFX' //Owner Name
 global.botname = ' MFC BOTZ' //Bot Name
 
-global.button = '☰ SUMBER SC ☰' //Costomize A Button Name In Alive Message
+global.button = '☰ OWNER GA ADA GITHUB TOD ☰' //Costomize A Button Name In Alive Message
 global.btnurl = '-' //Change Your Button's URL
 
 global.region = 'Indonesia, Jakarta , Waitan' //Country Region
 
 global.packname = 'Di buat oleh' //Bot Pacage Name
 global.author = 'MFC BOTZ' //Author Name
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['#','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©MFX.' //In list menu
+global.footer = '©MFC BOTZ' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = '' //Github Account!
@@ -48,14 +48,14 @@ global.ig = '' //Github Account!
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Selesai ✅',
-    admin: 'Hanya admin yang bisa menggunakan command nya',
-    botAdmin: 'Bot belum jadi admin !!',
-    owner: 'Hanya owner yang bisa menggunakan command nya',
+    admin: 'Cuma Admin Yang Bisa Gunakan Fitur Nya Tod',
+    botAdmin: 'Bot Belum Admin Tod !!',
+    owner: 'Hanya Owner Yang Bisa Menggunakan Fiturnya Tod',
     group: 'Command hanya untuk grub',
-    private: 'Command hanya bisa di gunakan di private chat !!',
+    private: 'Fitur Hanya Bisa Di Gunakan Di Private Chat !!',
     bot: 'This Feature Is Only For Bot😝',
     wait: 'Sabar...',
-    error: 'ERROR 404 : Yah fitur error bro',
+    error: 'ERROR 404 : Yah Fitur Error Bro',
     endLimit: 'Limit mu dah habis bro tunggu besok buat di reset limit nya'}
 // DO NOT CHANGE \\
     global.limitawal = {
