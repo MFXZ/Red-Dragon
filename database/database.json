@@ -28,7 +28,7 @@
   "settings": {
     "DONE": {
       "status": 0,
-      "autobio": false
+      "autobio": true
     }
   },
   "others": {
